@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 이름 : 😄장세현
+#### 이름 : 장세현 😄
 
 https://github.com/hyuncloud/hyuncloud.git
 
