@@ -1,4 +1,4 @@
-### Hi there 👋★
+
 
 <!--
 **hyuncloud/hyuncloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 #### 이름 : 😄장세현
 
 https://github.com/hyuncloud/hyuncloud.git
+
+##### 김현중 강사님 메일 주소 : guswnd2011@naver.com
